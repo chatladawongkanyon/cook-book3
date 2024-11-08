@@ -1,5 +1,6 @@
 ## ควบคุม Seven Segment วนลูปแสดงตัวเลข 0-9 โดยสลับทุกๆ 1 วินาที อิงจากแลป Seven Segment
 การควบคุมSeven Segment วนลูปแสดงตัวเลข 0-9  เป็นพื้นฐานการเริ่มต้นที่ง่ายในการใช้Seven Segmentจึงเลือกมาเพื่อเป็นการสาธิตในกระบวนการทำที่ไม่ซับซ้อน
+
 1.เปิด VS Code และใช้คำสั่ง Create ESP-IDF Project เพื่อสร้างโปรเจกต์ใหม่ เลือกบอร์ด ESP32 และตั้งชื่อโปรเจกต์
 
 <img width="895" alt="image" src="https://github.com/user-attachments/assets/8b972390-4f20-4b32-aa00-66df6c073b02">
